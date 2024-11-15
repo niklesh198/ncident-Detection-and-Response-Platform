@@ -1,1 +1,1 @@
-# ncident-Detection-and-Response-Platform
+# incident-Detection-and-Response-Platform
